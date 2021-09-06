@@ -28,7 +28,7 @@ namespace CrudNetC5.Models
 
         [Required(ErrorMessage ="El nombre del autor es requerido")]
         public string Autor { get; set; }
-
+        [Display(Name ="Precio")]
         [Required(ErrorMessage ="El precio es requerido")]
         public int precio { get; set; }
     }
