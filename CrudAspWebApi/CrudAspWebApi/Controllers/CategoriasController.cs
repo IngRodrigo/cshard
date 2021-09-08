@@ -34,7 +34,7 @@ namespace CrudAspWebApi.Controllers
         //Una sola categoria
         //cuando creamos una peticones con el mismo meetodo y que realizan operaciones similares
         //se debe agregar el parametro en una de ellas para diferenciarlas
-        [HttpGet("{id:int}")]
+        [HttpGet("{id:int}", Name ="GetCategoria")]
         public async Task<IActionResult> GetCategoria(int id)
         {
             //traemos la lista completa de las categorias ordenadas por nombre
@@ -63,7 +63,7 @@ namespace CrudAspWebApi.Controllers
             await _miBd.SaveChangesAsync();
 
             //retornamos ok
-            return Ok();
+            return CreatedAtRoute("GetCategoria", new { id = categoria.Id }, categoria);
         }
     }
 }
