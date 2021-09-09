@@ -1,0 +1,108 @@
+﻿@model AplicacionCliente.Models.Clientes
+
+@{
+    ViewData["Title"] = "Crear";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row" style="width:100%">
+    <div class="col-6">
+        <h2 class="text-primary">Lista de clientes</h2>
+    </div>
+
+    <div class="col-4 text-right">
+        <button class="btn btn-info form-control" type="button" data-toggle="modal" data-target="#miVentanaModal">
+            Crear nuevo cliente
+        </button>
+    </div>
+
+</div>
+
+<div class="p-4 border rounded bg-light">
+    <table id="tblTabla" class="table table-bordered table-responsive-xl">
+        <thead class="thead-dark">
+            <tr class="table-info">
+                <th>Nombres</th>
+                <th>Apellidos</th>
+                <th>Direccion</th>
+                <th>Telefono</th>
+                <th>Estado</th>
+                <th></th>
+            </tr>
+        </thead>
+    </table>
+</div>
+
+<div class="modal fade" id="miVentanaModal" role="dialog">
+    <div class="modal-dialog modal-xl modal-dialog-centered">
+        <div class="modal-content">
+            <form  method="post" enctype="multipart/form-data">
+                <div class="modal-header">
+                    <h2 class="modal-title text-primary text-center">Ingreso de clientes</h2>
+                    <button type="button" class="close" data-dismiss="modal">
+                        &times;
+                    </button>
+                </div>
+                @*body*@
+                <div class="modal-body">
+                    <div style="padding-left:15%; padding-right:15%; padding-bottom:30px;">
+                        <div class="row p-3 border-0">
+                            <div asp-validation-summary="ModelOnly" class="text-danger">@*valida nuestro modelo*@</div>
+                        </div>
+                            <div class="form-row" style="padding-top:14px">
+                                <div class="form-group col-md-6">
+                                    <label>Nombres</label>
+                                    <input asp-for="Nombres" class="form-control" placeholder="Nombres" />
+                                    <span asp-validation-for="Nombres" class="text-danger"></span>
+                                </div>
+                                <div class="form-group col-md-6">
+                                    <label>Apellidos</label>
+                                    <input asp-for="Apellidos" class="form-control" placeholder="Apellidos" />
+                                    <span asp-validation-for="Apellidos" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label>Direccion</label>
+                                <input asp-for="Direccion" placeholder="Direccion" class="form-control" />
+                                <span class="text-danger" asp-validation-for="Direccion"></span>
+                            </div>
+                            <div class="form-row">
+                                <div class="form-group col-md-6">
+                                    <label>Telefono</label>
+                                    <input placeholder="Telefono" asp-for="Telefono" class="form-control"/>
+                                    <span asp-validation-for="Telefono" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="form-row">
+                                <div class="form-group col-md-6">
+                                    <label>Estado</label>
+                                    <select asp-for="estado" class="form-control">
+                                        <option value="true">Activo</option>
+                                        <option value="false">Inactivo</option>
+                                    </select>
+                                </div>
+                            </div>
+                        
+                    </div>
+                </div>
+                
+                
+                <div class="modal-footer">
+                    <button class="btn btn-primary" data-dismiss="modal">
+                        Cerrar
+                    </button>
+                    <button type="submit" class="btn btn-success">Grabar cambios
+
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+</div>
+
+@section Scripts{
+                <partial name="_ValidationScriptsPartial"/>
+                <script src="~/js/Clientes.js"></script>
+
+            }
