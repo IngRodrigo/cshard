@@ -1,0 +1,10 @@
+C:\Cursos\cshard\netCore5\FullCshardWindowsForm\Declaraciones Statiic\bin\Debug\Declaraciones Statiic.exe.config
+C:\Cursos\cshard\netCore5\FullCshardWindowsForm\Declaraciones Statiic\bin\Debug\Declaraciones Statiic.exe
+C:\Cursos\cshard\netCore5\FullCshardWindowsForm\Declaraciones Statiic\bin\Debug\Declaraciones Statiic.pdb
+C:\Cursos\cshard\netCore5\FullCshardWindowsForm\Declaraciones Statiic\obj\Debug\Declaraciones Statiic.csproj.AssemblyReference.cache
+C:\Cursos\cshard\netCore5\FullCshardWindowsForm\Declaraciones Statiic\obj\Debug\Declaraciones_Statiic.Form1.resources
+C:\Cursos\cshard\netCore5\FullCshardWindowsForm\Declaraciones Statiic\obj\Debug\Declaraciones_Statiic.Properties.Resources.resources
+C:\Cursos\cshard\netCore5\FullCshardWindowsForm\Declaraciones Statiic\obj\Debug\Declaraciones Statiic.csproj.GenerateResource.cache
+C:\Cursos\cshard\netCore5\FullCshardWindowsForm\Declaraciones Statiic\obj\Debug\Declaraciones Statiic.csproj.CoreCompileInputs.cache
+C:\Cursos\cshard\netCore5\FullCshardWindowsForm\Declaraciones Statiic\obj\Debug\Declaraciones Statiic.exe
+C:\Cursos\cshard\netCore5\FullCshardWindowsForm\Declaraciones Statiic\obj\Debug\Declaraciones Statiic.pdb

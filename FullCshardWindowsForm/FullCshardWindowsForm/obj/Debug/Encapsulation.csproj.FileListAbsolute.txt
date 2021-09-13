@@ -1,0 +1,11 @@
+C:\Cursos\cshard\netCore5\Emcapcilacion\Emcapcilacion\obj\Debug\Encapsulation.csproj.AssemblyReference.cache
+C:\Cursos\cshard\netCore5\Emcapcilacion\Emcapcilacion\obj\Debug\Encapsulation.Form1.resources
+C:\Cursos\cshard\netCore5\Emcapcilacion\Emcapcilacion\obj\Debug\Encapsulation.FrmEmployeeDetails.resources
+C:\Cursos\cshard\netCore5\Emcapcilacion\Emcapcilacion\obj\Debug\Encapsulation.Properties.Resources.resources
+C:\Cursos\cshard\netCore5\Emcapcilacion\Emcapcilacion\obj\Debug\Encapsulation.csproj.GenerateResource.cache
+C:\Cursos\cshard\netCore5\Emcapcilacion\Emcapcilacion\obj\Debug\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Cursos\cshard\netCore5\Emcapcilacion\Emcapcilacion\bin\Debug\Encapsulation.exe.config
+C:\Cursos\cshard\netCore5\Emcapcilacion\Emcapcilacion\bin\Debug\Encapsulation.exe
+C:\Cursos\cshard\netCore5\Emcapcilacion\Emcapcilacion\bin\Debug\Encapsulation.pdb
+C:\Cursos\cshard\netCore5\Emcapcilacion\Emcapcilacion\obj\Debug\Encapsulation.exe
+C:\Cursos\cshard\netCore5\Emcapcilacion\Emcapcilacion\obj\Debug\Encapsulation.pdb

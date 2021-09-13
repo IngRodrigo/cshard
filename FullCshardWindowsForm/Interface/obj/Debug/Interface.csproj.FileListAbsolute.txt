@@ -1,0 +1,10 @@
+C:\Cursos\cshard\netCore5\FullCshardWindowsForm\Interface\bin\Debug\Interface.exe.config
+C:\Cursos\cshard\netCore5\FullCshardWindowsForm\Interface\bin\Debug\Interface.exe
+C:\Cursos\cshard\netCore5\FullCshardWindowsForm\Interface\bin\Debug\Interface.pdb
+C:\Cursos\cshard\netCore5\FullCshardWindowsForm\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+C:\Cursos\cshard\netCore5\FullCshardWindowsForm\Interface\obj\Debug\Interface.Form1.resources
+C:\Cursos\cshard\netCore5\FullCshardWindowsForm\Interface\obj\Debug\Interface.Properties.Resources.resources
+C:\Cursos\cshard\netCore5\FullCshardWindowsForm\Interface\obj\Debug\Interface.csproj.GenerateResource.cache
+C:\Cursos\cshard\netCore5\FullCshardWindowsForm\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Cursos\cshard\netCore5\FullCshardWindowsForm\Interface\obj\Debug\Interface.exe
+C:\Cursos\cshard\netCore5\FullCshardWindowsForm\Interface\obj\Debug\Interface.pdb

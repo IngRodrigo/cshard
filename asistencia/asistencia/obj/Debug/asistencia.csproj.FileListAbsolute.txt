@@ -1,0 +1,9 @@
+C:\Cursos\cshard\netCore5\asistencia\asistencia\bin\Debug\asistencia.exe.config
+C:\Cursos\cshard\netCore5\asistencia\asistencia\bin\Debug\asistencia.exe
+C:\Cursos\cshard\netCore5\asistencia\asistencia\bin\Debug\asistencia.pdb
+C:\Cursos\cshard\netCore5\asistencia\asistencia\obj\Debug\asistencia.csproj.AssemblyReference.cache
+C:\Cursos\cshard\netCore5\asistencia\asistencia\obj\Debug\asistencia.Properties.Resources.resources
+C:\Cursos\cshard\netCore5\asistencia\asistencia\obj\Debug\asistencia.csproj.GenerateResource.cache
+C:\Cursos\cshard\netCore5\asistencia\asistencia\obj\Debug\asistencia.csproj.CoreCompileInputs.cache
+C:\Cursos\cshard\netCore5\asistencia\asistencia\obj\Debug\asistencia.exe
+C:\Cursos\cshard\netCore5\asistencia\asistencia\obj\Debug\asistencia.pdb

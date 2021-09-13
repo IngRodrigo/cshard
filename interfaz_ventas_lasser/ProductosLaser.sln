@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductosLaser", "ProductosLaser.csproj", "{DBE7D643-5B99-414C-ACF1-A2C1E7A2846B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{828E1A09-0684-4885-B1ED-96228697DB02}"
+	ProjectSection(SolutionItems) = preProject
+		consultas.sql = consultas.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBE7D643-5B99-414C-ACF1-A2C1E7A2846B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBE7D643-5B99-414C-ACF1-A2C1E7A2846B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBE7D643-5B99-414C-ACF1-A2C1E7A2846B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBE7D643-5B99-414C-ACF1-A2C1E7A2846B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0D8D2FC-F882-40FB-9961-2AEBBD17AB75}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Cursos\cshard\netCore5\FullCshardWindowsForm\ClasesGenericas\bin\Debug\net5.0\ClasesGenericas.exe
+C:\Cursos\cshard\netCore5\FullCshardWindowsForm\ClasesGenericas\bin\Debug\net5.0\ClasesGenericas.deps.json
+C:\Cursos\cshard\netCore5\FullCshardWindowsForm\ClasesGenericas\bin\Debug\net5.0\ClasesGenericas.runtimeconfig.json
+C:\Cursos\cshard\netCore5\FullCshardWindowsForm\ClasesGenericas\bin\Debug\net5.0\ClasesGenericas.runtimeconfig.dev.json
+C:\Cursos\cshard\netCore5\FullCshardWindowsForm\ClasesGenericas\bin\Debug\net5.0\ClasesGenericas.dll
+C:\Cursos\cshard\netCore5\FullCshardWindowsForm\ClasesGenericas\bin\Debug\net5.0\ref\ClasesGenericas.dll
+C:\Cursos\cshard\netCore5\FullCshardWindowsForm\ClasesGenericas\bin\Debug\net5.0\ClasesGenericas.pdb
+C:\Cursos\cshard\netCore5\FullCshardWindowsForm\ClasesGenericas\obj\Debug\net5.0\ClasesGenericas.csproj.AssemblyReference.cache
+C:\Cursos\cshard\netCore5\FullCshardWindowsForm\ClasesGenericas\obj\Debug\net5.0\ClasesGenericas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\cshard\netCore5\FullCshardWindowsForm\ClasesGenericas\obj\Debug\net5.0\ClasesGenericas.AssemblyInfoInputs.cache
+C:\Cursos\cshard\netCore5\FullCshardWindowsForm\ClasesGenericas\obj\Debug\net5.0\ClasesGenericas.AssemblyInfo.cs
+C:\Cursos\cshard\netCore5\FullCshardWindowsForm\ClasesGenericas\obj\Debug\net5.0\ClasesGenericas.csproj.CoreCompileInputs.cache
+C:\Cursos\cshard\netCore5\FullCshardWindowsForm\ClasesGenericas\obj\Debug\net5.0\ClasesGenericas.dll
+C:\Cursos\cshard\netCore5\FullCshardWindowsForm\ClasesGenericas\obj\Debug\net5.0\ref\ClasesGenericas.dll
+C:\Cursos\cshard\netCore5\FullCshardWindowsForm\ClasesGenericas\obj\Debug\net5.0\ClasesGenericas.pdb
+C:\Cursos\cshard\netCore5\FullCshardWindowsForm\ClasesGenericas\obj\Debug\net5.0\ClasesGenericas.genruntimeconfig.cache

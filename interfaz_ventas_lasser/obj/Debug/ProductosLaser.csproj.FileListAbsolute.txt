@@ -1,0 +1,11 @@
+C:\Users\rodsanchez\source\repos\ProductosLaser\bin\Debug\ProductosLaser.exe.config
+C:\Users\rodsanchez\source\repos\ProductosLaser\bin\Debug\ProductosLaser.exe
+C:\Users\rodsanchez\source\repos\ProductosLaser\bin\Debug\ProductosLaser.pdb
+C:\Users\rodsanchez\source\repos\ProductosLaser\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\rodsanchez\source\repos\ProductosLaser\obj\Debug\ProductosLaser.csproj.AssemblyReference.cache
+C:\Users\rodsanchez\source\repos\ProductosLaser\obj\Debug\ProductosLaser.csproj.CoreCompileInputs.cache
+C:\Users\rodsanchez\source\repos\ProductosLaser\obj\Debug\ProductosLaser.csproj.CopyComplete
+C:\Users\rodsanchez\source\repos\ProductosLaser\obj\Debug\ProductosLaser.exe
+C:\Users\rodsanchez\source\repos\ProductosLaser\obj\Debug\ProductosLaser.pdb
+C:\Users\rodsanchez\source\repos\ProductosLaser\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rodsanchez\source\repos\ProductosLaser\bin\Debug\Newtonsoft.Json.xml
